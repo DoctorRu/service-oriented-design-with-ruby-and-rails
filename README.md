@@ -1,5 +1,5 @@
-service-oriented-design-with-ruby
-=================================
+service-oriented-design-with-ruby-and-rails
+===========================================
 
 Updated code to use with book: Service oriented desgin with ruby and rails by Paul Dix
 
